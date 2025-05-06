@@ -7,4 +7,4 @@
 [View Certificate](CISCOCERTIFICATE.pdf)
 
 ## EDS Laboratory Assignments
-[Download EDS Lab Assignments](edstheoryactivity.pdf)
+[Download EDS Lab Assignments](Edstheoryactivity.pdf)
