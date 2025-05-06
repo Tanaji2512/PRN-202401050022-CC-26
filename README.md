@@ -1,7 +1,7 @@
 # Academic Resources
 
 ## Preskilet Video
-[Watch the video](preskiletvideo.pdf)
+[Watch the video](priskiletvideo.pdf)
 
 ## CISCO Certificate
 [View Certificate](CISCOCERTIFICATE.pdf)
